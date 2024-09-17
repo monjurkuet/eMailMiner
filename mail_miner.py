@@ -161,4 +161,4 @@ if __name__ == "__main__":
 
     print("\nAll emails have been saved to the SQLite database.")
 
-#python mail_miner2.py --inputfile domains.txt --db database.db --maxurls 20
+#python mail_miner.py --inputfile domains.txt --db database.db --maxurls 20
